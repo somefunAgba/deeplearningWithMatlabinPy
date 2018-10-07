@@ -11,13 +11,13 @@
 
 ##### Some Results:
 ###### Experiment 1:
-![NoDropOutNoBatchNorm](rmsprop_deep_test_viz.png)
+![NoDropOutNoBatchNorm](deepgraphs/rmsprop_deep_test_viz.png)
 ###### Experiment 2:
-![NoDropOutBatchNorm](rmsprop_batchonly_deep_test_viz.png)
+![NoDropOutBatchNorm](deepgraphs/rmsprop_batchonly_deep_test_viz.png)
 ###### Experiment 3:
-![DropOutNoBatchNorm](rmsprop_drop_deep_test_viz.png)
+![DropOutNoBatchNorm](deepgraphs/rmsprop_drop_deep_test_viz.png)
 ###### Experiment 4:
-![DropOutBatchNorm](rmsprop_batchdrop_deep_test_viz.png)
+![DropOutBatchNorm](deepgraphs/rmsprop_batchdrop_deep_test_viz.png)
 
 
 > [Project Hypothesis](https://www.researchgate.net/project/Investigating-the-Behaviour-of-Deep-Neural-Networks)
