@@ -22,6 +22,7 @@
 
 > [Project Hypothesis](https://www.researchgate.net/project/Investigating-the-Behaviour-of-Deep-Neural-Networks)
 
-(c) 2017
+[![DOI](https://zenodo.org/badge/151902801.svg)](https://zenodo.org/badge/latestdoi/151902801)
 ###### Email: oasomefun@ieee.org
 ###### Somefun, O.A.
+(c) 2017
